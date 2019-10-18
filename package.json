@@ -1,0 +1,12 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "yarn package",
+  "main": "index.js",
+  "repository": "https://github.com/Ibento/yarn",
+  "author": "Øyvind Dahl <oyvind@ibento.no>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
